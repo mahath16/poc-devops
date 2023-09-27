@@ -1,1 +1,2 @@
-release v1 has been tested and deployed to prod server
+release v1 has been tested and deployed to prod server.
+release v2 is developing
