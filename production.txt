@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 first git class
 =======
 this is first class
 >>>>>>> Stashed changes
+=======
+this is first class
+>>>>>>> devops
